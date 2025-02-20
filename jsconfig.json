@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["resources/js/*"],
+            "@inertiajs/inertia": ["vendor/inertiajs/inertia/src/runtime"],
+            "@inertiajs/inertia-vue3": ["vendor/inertiajs/inertia-vue3/src/runtime"],
+            "ziggy-js": ["./vendor/tightenco/ziggy"]
+        }
+    },
+    "exclude": ["node_modules", "public"]
+}
