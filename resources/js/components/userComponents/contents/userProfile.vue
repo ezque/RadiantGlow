@@ -5,7 +5,6 @@
       </a>
       <h2>Profile</h2>
   
-      <!-- Display the customer info or input fields -->
       <div v-if="customer">
         <div v-if="!editMode" class="profile-info">
           <div class="firstname-con">

@@ -156,10 +156,6 @@ const handleLogout = async () => {
 </script>
 
 
-
-
-
-
 <style scoped>
 .sidebar{
     width: 20%;
